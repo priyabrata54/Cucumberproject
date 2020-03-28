@@ -1,0 +1,6 @@
+utilities\SeleniumDriver.class
+Pages\locators\CarsSearchPageLocators.class
+Pages\locators\UsedCarsSearch.class
+Pages\locators\CarsGuideHomePageLocators.class
+Pages\actions\CarsGuideHomePageActions.class
+Pages\actions\CarsSearchPageActions.class
